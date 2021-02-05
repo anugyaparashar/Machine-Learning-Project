@@ -21,6 +21,13 @@ To solve the defined handwritten character recognition problem of classification
 5. Validate the model on the test data.
 6. Fine tune the parameters for increase in classification that accurates the model on train and test data.
 
+# After training the model the accuracy comes out to be 0.2522335946559906
+  The images generated in predicting the accuracy of the model are:
+
+<img src="https://user-images.githubusercontent.com/60837428/107011067-27d9d800-67bd-11eb-9539-9f821d2f4959.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011099-33c59a00-67bd-11eb-8736-99518a0eaecf.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011111-39bb7b00-67bd-11eb-8a5e-8b72d2c1c8c3.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011125-3e802f00-67bd-11eb-8413-58ac66bd07a8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011137-4344e300-67bd-11eb-874f-ff9de69b1328.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011149-47710080-67bd-11eb-958a-fb4beaec2bb2.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011163-4b048780-67bd-11eb-8267-ccf4ebd87675.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011172-4f30a500-67bd-11eb-94bc-9ec41e3c0236.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011179-52c42c00-67bd-11eb-9b1a-b853b473ebdd.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011192-5657b300-67bd-11eb-8a8f-9c9d2aa97be3.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011207-5a83d080-67bd-11eb-8525-dba9e2d8b722.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/60837428/107011216-5e175780-67bd-11eb-912d-e48181b4861a.png" width="23%"></img> 
+
+
+
 
 
 
