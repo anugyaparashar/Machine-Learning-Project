@@ -1,7 +1,10 @@
 # Machine-Learning-Project
 # "Automated extraction of handwritten text from images"
 
-Handwriting recognition (HWR), also known as Handwritten Text Recognition (HTR), is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens and other devices. This project seeks to classify an individual handwritten word so that handwritten text can be translated to a digital form. The main approach used to accomplish this task i.e, classifying words directly is Convolutional Neural Network (CNN) with various architectures to train a model that can accurately classify words. 
+Handwriting recognition (HWR), also known as Handwritten Text Recognition (HTR), is the ability of a computer to receive and interpret intelligible handwritten input from sources such as paper documents, photographs, touch-screens and other devices. This project seeks to classify an individual handwritten word so that handwritten text can be translated to a digital form. The main approach used to accomplish this task i.e, classifying words directly is Convolutional Neural Network (CNN) with various architectures to train a model that can accurately classify words.
+
+https://github.com/anugyaparashar/Machine-Learning-Project/issues/1#issue-801968323
+
 Handwritten text is a very general term, and we wanted to narrow down the scope of the project by specifying the meaning of handwritten text for our purposes. In this project, we took on the challenge of classifying the image of any handwritten word, which might be of the form of cursive or block writing.
 
 # Description of Project
